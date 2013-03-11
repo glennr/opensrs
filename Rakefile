@@ -18,12 +18,12 @@ begin
   require 'jeweler'
 
   Jeweler::Tasks.new do |gem|
-    gem.name        = "opensrs"
+    gem.name        = "glennr_opensrs"
     gem.version     = OpenSRS::Version::VERSION
     gem.summary     = "Provides support to utilize the OpenSRS API with Ruby/Rails."
     gem.description = "Provides support to utilize the OpenSRS API with Ruby/Rails."
-    gem.email       = "jdelsman@voxxit.com"
-    gem.homepage    = "http://github.com/voxxit/opensrs"
+    gem.email       = "glenn@siyelo.com"
+    gem.homepage    = "http://github.com/glennr/opensrs"
     gem.license     = "MIT"
     gem.authors     = ["Josh Delsman", "Glenn Roberts"]
 
